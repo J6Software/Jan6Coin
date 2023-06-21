@@ -10,3 +10,6 @@ Jan6 Coin that was created out of CONVICTION. Not out of CARTOONS.
 Add JAN6 Token
 
 ERC-20: https://etherscan.io/address/0xaE131C8513476E1e0718376bA518aE526e99ABe7
+BEP-20: 
+
+Technology
